@@ -7,6 +7,9 @@ body{
     background-size: 100% 100%;
     background-attachment: fixed;
     background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 .logo img{
     padding-left: 3%;
@@ -61,4 +64,22 @@ body{
 .flexbox1 h2{
     display: flex;
     margin-top: 25px;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 70px;
+}
+.column {
+    flex: 0 0 30%;
+    
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+h2 {
+    margin-top: 0;   
+}
+p {
+    margin-bottom: 0;
 }
