@@ -20,6 +20,8 @@ body {
     justify-content: space-around;
     margin-top: 10px;
     color: black;
+    list-style: none;
+   
 }
 .flexbox li {
     margin-top: 10px;
