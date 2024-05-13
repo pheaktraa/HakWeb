@@ -83,3 +83,6 @@ h2 {
 p {
     margin-bottom: 0;
 }
+.icon-text {
+    margin-left: 5px; /* Adjust the value as needed */
+}
