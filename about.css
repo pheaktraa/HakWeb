@@ -85,4 +85,16 @@ p {
 }
 .icon-text {
     margin-left: 5px; /* Adjust the value as needed */
+    color: palevioletred;
+}
+.emoji {
+    margin-left: 5px;
+
+}
+.fa-tv{
+    color:palevioletred;
+
+}
+.fa-gamepad{
+    color:palevioletred;
 }
