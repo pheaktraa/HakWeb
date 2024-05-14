@@ -88,7 +88,7 @@ p {
     color: palevioletred;
 }
 .emoji {
-    margin-left: 5px;
+    margin-left: 3px;
 
 }
 .fa-tv{
@@ -97,4 +97,31 @@ p {
 }
 .fa-gamepad{
     color:palevioletred;
+}
+.fa-table-tennis-paddle-ball{
+    color:palevioletred;
+
+}
+.fa-users{
+    color:palevioletred;
+
+}
+.fa-user-gear{
+    color:palevioletred;
+    
+}
+.fa-chalkboard-user{
+    color:palevioletred;
+    
+}
+.fa-person-booth{
+    color:palevioletred;
+    
+}
+.fa-face-smile-beam{
+    color:palevioletred;
+}
+.fa-music{
+    color:palevioletred;
+
 }
